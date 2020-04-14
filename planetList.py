@@ -47,5 +47,3 @@ for planet in planet_list:
         for planet in last_visited:
             sentence += f'and {planet}.'
         print(sentence)
-            
-        
